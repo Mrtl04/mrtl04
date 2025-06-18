@@ -7,13 +7,15 @@ Welcome to my GitHub! I'm a developer who loves creating meaningful projects and
 ---
 
 ### 🚀 What I Do
-- 🌱 Learning everyday — currently diving into **Flutter** & **C#**
+- 🌱 Learning everyday — currently diving into **JavaScript** & **C#**
 - 🛠️ Working on: **PCOS Care App**, custom UI/UX in Flutter, and creative product ideas
 - 🎯 Goals: Build apps that solve real problems & improve everyday life
 
 ---
 
 ### 🧰 Tech Stack
+![Pyton](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
