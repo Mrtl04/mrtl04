@@ -14,8 +14,8 @@ Welcome to my GitHub! I'm a developer who loves creating meaningful projects and
 ---
 
 ### 🧰 Tech Stack
-![Python](https://img.shields.io/badge/code-python-blue?logo=python&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/code-java-red?logo=java&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
