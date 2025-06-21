@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Mykel Lusung!
 
-> 💻 Passionate about code. Driven by curiosity. Inspired by impact.
+> 💻 Coding looks fun. Driven by curiosity and inspired by impact.
 
-Welcome to my GitHub! I'm a developer who loves creating meaningful projects and learning new things along the way. Whether it's building apps, solving problems, or exploring new tech — I'm all in.
+Welcome to my GitHub! I'm a Computer Science Student who likes creating projects and learning new things along the way. Whether it's building apps, solving problems, or exploring new tech.
 
 ---
 
 ### 🚀 What I Do
 - 🌱 Learning everyday — currently diving into **JavaScript** & **C#**
-- 🛠️ Working on: **PCOS Care App**, custom UI/UX in Flutter, and creative product ideas
-- 🎯 Goals: Build apps that solve real problems & improve everyday life
+- 🛠️ Working on: **Dog Mood Analysis App**, custom UI/UX in React, and creative product ideas
+- 🎯 Goals: Build programs that solves real problems & improves everyday life
 
 ---
 
@@ -28,6 +28,8 @@ Welcome to my GitHub! I'm a developer who loves creating meaningful projects and
 ### 📊 GitHub Stats
 
 ![Mrtl04's Stats](https://github-readme-stats.vercel.app/api?username=Mrtl04&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Mrtl04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrtl04&theme=vue-dark&hide_border=true)
+![Mrtl04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrtl04&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
