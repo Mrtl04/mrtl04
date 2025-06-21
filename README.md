@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a developer who loves creating meaningful projects and
 
 ### 📊 GitHub Stats
 
-![Mykel's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Mrtl04's Stats](https://github-readme-stats.vercel.app/api?username=Mrtl04&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
